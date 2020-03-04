@@ -1,0 +1,25 @@
+body {
+  padding: 20px;
+  margin: 20px;
+}
+
+ul {
+  list-style: none;
+}
+div.Accordion {
+  background-color: lightgray;
+  margin: 100px;
+  padding: 50px;
+}
+button {
+  font-style: italic;
+  width: 2in;
+  height: 1in;
+  font-size: 30px;
+}
+p {
+  font-weight: 100;
+  font-style: oblique;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: red;
+}
