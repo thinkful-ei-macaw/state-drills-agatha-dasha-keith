@@ -1,6 +1,7 @@
 import React from 'react';
 import Hello from './HelloWorld/HelloWorld';
 import Bomb from './Bomb/Bomb';
+import RouletteGun from './RouletteGun/RouletteGun'
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
         <Bomb />
       </div>
       <div className='RouletteGun'>
-        {/*<RouletteGun />*/}
+        <RouletteGun />
       </div>
     </main>
   );
